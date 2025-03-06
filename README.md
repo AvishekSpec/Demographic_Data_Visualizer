@@ -34,18 +34,5 @@ This project is ideal for learning data analysis with Python and exploring real-
 ---
 
 ## Output
-race_count: White                 27816
-Black                  3124
-Asian-Pac-Islander     1039
-Amer-Indian-Eskimo      311
-Other                   271
-Name: race, dtype: int64
-average_age_men: 39.4
-percentage_bachelors: 16.4
-higher_education_rich: 46.5
-lower_education_rich: 17.4
-min_work_hours: 1
-rich_percentage: 10.0
-highest_earning_country: United-States
-highest_earning_country_percentage: 23.6
-top_IN_occupation: Prof-specialty
+![image](https://github.com/user-attachments/assets/b0026cb3-ba14-4b0d-9798-b32387afdd71)
+
