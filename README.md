@@ -55,8 +55,6 @@ top_IN_occupation: Prof-specialty
 Dataset
 The dataset used is the Adult Data Set from the UCI Machine Learning Repository. It contains demographic information such as age, education, occupation, race, and income.
 
-Download the dataset here.
-
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
